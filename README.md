@@ -32,6 +32,8 @@ For prediction, gradio is integrated, for more see [predict.py](pytorch_efficien
 ## ViT
 
 Brain MRI Classification using timm `Vit : vit_base_patch32_224`. 
+
+**Training Accuracy Log**
 ![](files/vit_accuracy.png)
 
 **Training Loss log**
