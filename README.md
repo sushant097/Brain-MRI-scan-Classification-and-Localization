@@ -37,3 +37,4 @@ Brain MRI Classification using timm `Vit : vit_base_patch32_224`.
 **Training Loss log**
 ![](files/vit_loss.png)
 
+ Brain MRI Classification using PyTorch ViT. For notebook see [here](notebooks/brain-mri-classification-vit.ipynb).
